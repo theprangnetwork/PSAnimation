@@ -1,5 +1,5 @@
 # PSAnimation
-PSAnimation is a wrapper around Core Animation, designed to allow you to use powerful, layer backed animations in your code, with great syntax and an easy to use interface.
+PSAnimation is an animation framework designed to allow you to use powerful, layer backed animations in your code, with great syntax and an easy to use interface. It's also backed by Core Animation, which opens up a ton of possibilites for animations. Currently, PSAnimation is pretty basic, it's the animation framework I used in ephemera (http://ephemeraapp.xyz), but it's nice and easy to use.
 
 # Usage
 PSAnimation is really easy to use. Just create an animation object like this: 
